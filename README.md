@@ -1,2 +1,2 @@
-# Hao_Niu_Lab_7
+# Hao Niu Lab 7
 Visualizations Lab 7
