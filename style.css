@@ -1,0 +1,21 @@
+.tooltip{
+    position:fixed;
+    display:none;
+    background-color:#696764;
+    opacity: .9;
+    color: white;
+    padding: 7px;
+    border-radius: 5%;
+  }
+
+  h2{
+    margin-left:4%;
+    font-weight: bolder;
+    margin-top: 20px;
+    color: coral;
+  }
+
+  .chart{
+      width: 50%;
+      height: 50%;
+  }
